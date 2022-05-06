@@ -71,47 +71,6 @@ include("header.php");
     </div>
 </section>
 
-<!-- Banner Section Begin -->
-
-<div class="banner-section spad">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-4">
-                <a href='shop.php?cat_id=1'>
-                    <div class="single-banner">
-                        <img src="img/banner-1.png" alt="Mens">
-                        <div class="inner-text">
-                            <h4>Men’s</h4>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-lg-4">
-                <a href='shop.php?cat_id=2'>
-                    <div class="single-banner">
-                        <img src="img/banner-2.png" alt="">
-                        <div class="inner-text">
-                            <h4>Women’s</h4>
-                        </div>
-                    </div>
-                </a>
-
-            </div>
-            <div class="col-lg-4">
-                <a href='shop.php?cat_id=3'>
-                    <div class="single-banner">
-                        <img src="img/banner-3.png" alt="">
-                        <div class="inner-text">
-                            <h4>Kid’s</h4>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
 <!-- Women Banner Section Begin -->
 
 <section class="women-banner spad">
